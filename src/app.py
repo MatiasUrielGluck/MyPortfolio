@@ -43,4 +43,4 @@ def download(name):
         return 'Invalid Key'
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5550)
+    app.run(debug=True)
