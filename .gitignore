@@ -1,4 +1,4 @@
-./src/downloads/
+src/downloads/
 __pycache__/
 private.py
 .vscode/
