@@ -176,26 +176,34 @@ body {
 }
 
 .skill:nth-of-type(3) .active-bar {
-    width: 55%;
+    width: 60%;
 }
 
 .skill:nth-of-type(4) .active-bar {
-    width: 35%;
-}
-
-.skill:nth-of-type(5) .active-bar {
     width: 40%;
 }
 
-.skill:nth-of-type(6) .active-bar {
+.skill:nth-of-type(5) .active-bar {
     width: 45%;
 }
 
+.skill:nth-of-type(6) .active-bar {
+    width: 60%;
+}
+
 .skill:nth-of-type(7) .active-bar {
-    width: 30%;
+    width: 45%;
 }
 
 .skill:nth-of-type(8) .active-bar {
+    width: 30%;
+}
+
+.skill:nth-of-type(9) .active-bar {
+    width: 50%;
+}
+
+.skill:nth-of-type(10) .active-bar {
     width: 80%;
 }
 
@@ -205,7 +213,7 @@ body {
     box-shadow: var(--box-shadow);
     display: flex;
     flex-flow: column nowrap;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: left;
     max-width: 600px;
     padding: 1.375rem;
