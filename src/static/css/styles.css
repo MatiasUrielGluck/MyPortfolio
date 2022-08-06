@@ -184,7 +184,7 @@ body {
 }
 
 .skill:nth-of-type(5) .active-bar {
-    width: 45%;
+    width: 65%;
 }
 
 .skill:nth-of-type(6) .active-bar {
@@ -196,11 +196,11 @@ body {
 }
 
 .skill:nth-of-type(8) .active-bar {
-    width: 30%;
+    width: 35%;
 }
 
 .skill:nth-of-type(9) .active-bar {
-    width: 50%;
+    width: 55%;
 }
 
 .skill:nth-of-type(10) .active-bar {

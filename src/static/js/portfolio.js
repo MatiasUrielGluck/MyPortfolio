@@ -11,6 +11,14 @@ const app = new Vue({
                 code: "https://github.com/MatiasUrielGluck/Gluck-Pianos"
             },
             {
+                src: "./static/images/portfolio/todoapp.png",
+                tags: ["HTML", "CSS", "JavaScript", "Vue.js"],
+                projectName: "To-do App",
+                projectDesc: "Simple todo SPA using Vue.js.",
+                demo: "https://todoapp-matiasurielgluck.netlify.app/",
+                code: "https://github.com/MatiasUrielGluck/todoapp"
+            },
+            {
                 src: "./static/images/portfolio/404.png",
                 tags: ["HTML", "CSS"],
                 projectName: "404 Not Found",
