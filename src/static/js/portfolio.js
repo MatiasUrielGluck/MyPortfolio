@@ -3,6 +3,14 @@ const app = new Vue({
     data: {
         projectList: [
             {
+                src: "./static/images/portfolio/codenote.png",
+                tags: ["HTML", "CSS", "JavaScript", "Vue.js", "Node.js", "Mongo", "Fullstack", "MEVN"],
+                projectName: "CodeNote",
+                projectDesc: "Note app for programmers. Built using the MEVN Stack technologies.",
+                demo: "https://codenote-app.netlify.app",
+                code: "https://github.com/MatiasUrielGluck/CodeNote"
+            },
+            {
                 src: "./static/images/portfolio/pianos.png",
                 tags: ["HTML", "CSS", "JavaScript", "Python", "MySQL", "Fullstack"],
                 projectName: "Gluck Pianos",
